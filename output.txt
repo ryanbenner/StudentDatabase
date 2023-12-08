@@ -1,0 +1,16 @@
+Student Records:
+
+Name: d
+Major: d
+Level: d
+GPA: 3
+Advisor ID: 5
+ID: 4
+
+
+Faculty Records:
+
+Name: jeff
+Level: j
+ID: 5
+
